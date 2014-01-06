@@ -544,6 +544,7 @@ module.exports.Request = Request
 
 module.exports.TYPES = TYPES
 module.exports.map = map
+module.exports.mstds = require './mstds/main'
 
 # append datatypes to this modules export
 
