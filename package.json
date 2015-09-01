@@ -3,7 +3,7 @@
 		"name": "Patrik Simek",
 		"url": "https://patriksimek.cz"
 	},
-	"name": "mssql",
+	"name": "@irv/mssql",
 	"description": "An easy-to-use MSSQL database connector for Node.js.",
 	"keywords": [
 		"database",
